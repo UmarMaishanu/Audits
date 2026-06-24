@@ -1,4 +1,4 @@
-# Audits
+
 # 🛡️ Security Audit Portfolio
 
 **Independent Smart Contract Security Researcher**
