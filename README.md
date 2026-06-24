@@ -1,4 +1,3 @@
-
 # 🛡️ Security Audit Portfolio
 
 **Independent Smart Contract Security Researcher**
@@ -12,8 +11,9 @@
 
 ## 👤 About
 
-I am an independent smart contract security researcher focused on identifying vulnerabilities in decentralised finance (DeFi) protocols through competitive auditing. My work spans lending protocols, oracle systems, and transaction validation logic — with a focus on real-world financial impact.
+I am an independent smart contract security researcher. I find vulnerabilities in DeFi protocols through competitive auditing on Sherlock and Code4rena. My focus is on understanding how value moves through a protocol and identifying where unchecked assumptions create real financial risk.
 
+I work primarily with Solidity, Move, and Rust — adapting to whatever language and chain a contest requires.
 
 **Active Audit Profiles:**
 
@@ -47,11 +47,11 @@ I am an independent smart contract security researcher focused on identifying vu
 
 ---
 
-## 🔍 Specialisations
+## 🔍 Focus Areas
 
-- **DeFi Protocol Security** — Lending markets, oracle systems, liquidation mechanics
-- **Smart Contract Auditing** — Solidity, Sui Move, vulnerability analysis, exploit documentation
-- **Oracle & Price Feed Analysis** — EMA/spot price inconsistencies, manipulation vectors
+- **DeFi Protocol Security** — Lending markets, liquidation mechanics, oracle integrations, AMMs
+- **Oracle & Price Feed Analysis** — Price source inconsistencies, manipulation vectors, stale data, cross-function price mismatches
+- **Smart Contract Vulnerability Research** — First-principles approach: tracing value flows, identifying unchecked assumptions, and proving exploitability with concrete attack paths
 - **Competitive Auditing** — Sherlock, Code4rena
 
 ---
