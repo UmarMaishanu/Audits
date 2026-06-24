@@ -14,7 +14,6 @@
 
 I am an independent smart contract security researcher focused on identifying vulnerabilities in decentralised finance (DeFi) protocols through competitive auditing. My work spans lending protocols, oracle systems, and transaction validation logic — with a focus on real-world financial impact.
 
-Based in Russia, originally from Nigeria. B.Sc. Information Systems & Technologies at Don State Technical University (CGPA 4.61/5.0, English medium). Completed Cyfrin Updraft courses in Smart Contract Security, Foundry, and Blockchain Basics.
 
 **Active Audit Profiles:**
 
