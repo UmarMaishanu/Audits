@@ -32,8 +32,8 @@ I work primarily with Solidity, Move, and Rust — adapting to whatever language
 |---|---|
 | 🔴 High | 1 |
 | 🟡 Medium | 0 |
-| 🔵 Low | 0 |
-| **Total Findings** | **1** |
+| 🔵 Low | 1 |
+| **Total Findings** | **2** |
 
 ---
 
@@ -42,6 +42,7 @@ I work primarily with Solidity, Move, and Rust — adapting to whatever language
 | # | Contest | Platform | Protocol Type | Findings | Rank | Report |
 |---|---|---|---|---|---|---|
 | 01 | [Current Finance (March 2026)](https://audits.sherlock.xyz/watson/Um158057) | Sherlock | DeFi Lending Protocol (Sui Move) | [1 🔴H](Contests/2026-03-current-finance.md) | **#33 / 509** | — |
+| 02 | [XRP Ledger (April 2026)](https://audits.sherlock.xyz/watson/Um158057) | Sherlock | L1 Payment Engine (C++) | [1 🔵L (Solo)](Contests/2026-04-xrp-ledger.md) | — | — |
 
 > **Severity Key:** 🔴 H = High · 🟡 M = Medium · 🔵 L = Low
 
